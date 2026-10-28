@@ -1,0 +1,34 @@
+[23:08:37] RA3FrameMod loaded into F:\EA Games\Command and Conquer Red Alert 3\Red Alert 3\Data\RA3_1.13.game
+[23:08:37] MaxUpdateFPS @00CB8514 = 30, LogicFPS @00CB8510 = 15
+[23:08:37] signatures: ratio=5 (want 5) loop=1 (want 1) store=1 (want 1) logic=1 (want 1)
+[23:08:37] patched: render cadence 90 fps, logic 15 Hz (1 sub-steps per frame)
+[23:08:42] draw 0.0 fps | logic n/a
+[23:08:47] draw 0.2 fps | logic 0.00 Hz
+[23:08:52] draw 0.0 fps | logic 0.00 Hz
+[23:08:57] draw 0.2 fps | logic 0.00 Hz
+[23:09:02] draw 1.8 fps | logic 0.00 Hz
+[23:09:07] draw 90.0 fps | logic 0.00 Hz
+[23:09:12] draw 86.8 fps | logic 0.00 Hz
+[23:09:17] draw 70.6 fps | logic 0.00 Hz
+[23:09:22] draw 87.4 fps | logic 0.00 Hz
+[23:09:27] draw 69.8 fps | logic 0.00 Hz
+[23:09:32] draw 88.6 fps | logic 0.00 Hz
+[23:09:37] draw 74.6 fps | logic 0.00 Hz
+[23:09:42] draw 84.2 fps | logic 14.00 Hz
+[23:09:47] draw 90.2 fps | logic 15.00 Hz
+[23:09:52] draw 90.8 fps | logic 15.20 Hz
+[23:09:57] draw 71.6 fps | logic 11.80 Hz
+[23:10:02] draw 76.0 fps | logic 12.80 Hz
+[23:10:07] draw 90.4 fps | logic 15.00 Hz
+[23:10:12] draw 85.2 fps | logic 14.20 Hz
+[23:10:17] draw 88.6 fps | logic 14.80 Hz
+[23:10:22] draw 88.8 fps | logic 14.80 Hz
+[23:10:27] draw 87.2 fps | logic 14.40 Hz
+[23:10:32] draw 90.4 fps | logic 13.60 Hz
+[23:10:37] draw 90.2 fps | logic 9.80 Hz
+[23:10:42] draw 90.4 fps | logic 15.00 Hz
+[23:10:47] draw 88.6 fps | logic 14.80 Hz
+[23:10:52] draw 89.4 fps | logic 15.00 Hz
+[23:10:57] draw 88.8 fps | logic 14.60 Hz
+[23:11:02] draw 86.6 fps | logic 14.60 Hz
+[23:11:07] draw 86.6 fps | logic n/a

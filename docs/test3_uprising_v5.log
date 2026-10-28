@@ -1,0 +1,82 @@
+[23:32:52] RA3FrameMod loaded into F:\EA Games\Command and Conquer Red Alert 3\Red Alert 3 Uprising\Data\ra3ep1_1.1.game
+[23:32:52] MaxUpdateFPS @00CCCE94 = 30, LogicFPS @00CCCE90 = 15
+[23:32:52] signatures: ratio=5 (want 5) loop=1 (want 1) store=1 (want 1) logic=1 (want 1) net=1 (want 1)
+[23:32:52] animation speed fix applied at 008D2360
+[23:32:52] animation clock fix applied at 00631761 (alt path too)
+[23:32:52] patched: render cadence 90 fps, logic 15 Hz (1 sub-steps per frame), catch-up on (offline games)
+[23:32:52] widescreen FOV: Hor+ fix applied at 004E59C0 (FOVPercent=100)
+[23:32:57] draw 0.2 fps | logic n/a
+[23:33:02] draw 7.2 fps | logic 0.00 Hz | catch-up frames 0
+[23:33:07] draw 88.8 fps | logic 0.00 Hz | catch-up frames 0
+[23:33:12] draw 86.8 fps | logic 0.00 Hz | catch-up frames 1
+[23:33:17] draw 73.6 fps | logic 7.60 Hz | catch-up frames 5
+[23:33:22] draw 87.6 fps | logic 15.00 Hz | catch-up frames 3
+[23:33:27] draw 90.2 fps | logic 15.00 Hz | catch-up frames 1
+[23:33:32] draw 89.2 fps | logic 15.00 Hz | catch-up frames 2
+[23:33:37] draw 88.0 fps | logic 15.00 Hz | catch-up frames 3
+[23:33:42] draw 89.8 fps | logic 15.00 Hz | catch-up frames 2
+[23:33:47] draw 91.0 fps | logic 15.20 Hz | catch-up frames 0
+[23:33:52] draw 90.8 fps | logic 15.00 Hz | catch-up frames 0
+[23:33:57] draw 91.0 fps | logic 15.20 Hz | catch-up frames 0
+[23:34:02] draw 85.4 fps | logic 15.00 Hz | catch-up frames 11
+[23:34:07] draw 83.0 fps | logic 14.40 Hz | catch-up frames 9
+[23:34:12] draw 90.0 fps | logic 15.00 Hz | catch-up frames 2
+[23:34:17] draw 91.0 fps | logic 15.20 Hz | catch-up frames 0
+[23:34:22] draw 90.8 fps | logic 15.20 Hz | catch-up frames 0
+[23:34:27] draw 91.0 fps | logic 15.20 Hz | catch-up frames 0
+[23:34:32] draw 85.4 fps | logic 14.80 Hz | catch-up frames 9
+[23:34:37] draw 86.6 fps | logic 14.60 Hz | catch-up frames 4
+[23:34:42] draw 88.2 fps | logic 15.00 Hz | catch-up frames 4
+[23:34:47] draw 89.8 fps | logic 15.00 Hz | catch-up frames 2
+[23:34:52] draw 84.4 fps | logic 15.00 Hz | catch-up frames 13
+[23:34:57] draw 90.6 fps | logic 15.20 Hz | catch-up frames 1
+[23:35:02] draw 88.2 fps | logic 15.00 Hz | catch-up frames 3
+[23:35:07] draw 87.2 fps | logic 15.00 Hz | catch-up frames 6
+[23:35:12] draw 90.8 fps | logic 15.20 Hz | catch-up frames 0
+[23:35:17] draw 91.0 fps | logic 15.20 Hz | catch-up frames 0
+[23:35:22] draw 89.0 fps | logic 14.80 Hz | catch-up frames 1
+[23:35:27] draw 90.4 fps | logic 15.20 Hz | catch-up frames 1
+[23:35:32] draw 90.8 fps | logic 15.00 Hz | catch-up frames 0
+[23:35:37] draw 91.0 fps | logic 15.20 Hz | catch-up frames 0
+[23:35:42] draw 86.6 fps | logic 14.80 Hz | catch-up frames 6
+[23:35:47] draw 88.2 fps | logic 15.00 Hz | catch-up frames 5
+[23:35:52] draw 88.8 fps | logic 15.00 Hz | catch-up frames 2
+[23:35:57] draw 85.5 fps | logic 14.96 Hz | catch-up frames 11
+[23:36:02] draw 87.8 fps | logic 15.00 Hz | catch-up frames 5
+[23:36:07] draw 91.0 fps | logic 15.20 Hz | catch-up frames 0
+[23:36:12] draw 86.0 fps | logic 14.80 Hz | catch-up frames 10
+[23:36:17] draw 87.6 fps | logic 15.00 Hz | catch-up frames 6
+[23:36:22] draw 89.0 fps | logic 15.00 Hz | catch-up frames 3
+[23:36:27] draw 86.6 fps | logic 15.00 Hz | catch-up frames 9
+[23:36:32] draw 90.6 fps | logic 15.20 Hz | catch-up frames 0
+[23:36:37] draw 91.0 fps | logic 15.20 Hz | catch-up frames 0
+[23:36:42] draw 88.2 fps | logic 14.80 Hz | catch-up frames 4
+[23:36:47] draw 89.0 fps | logic 15.00 Hz | catch-up frames 3
+[23:36:52] draw 91.0 fps | logic 15.20 Hz | catch-up frames 0
+[23:36:57] draw 88.8 fps | logic 14.80 Hz | catch-up frames 1
+[23:37:02] draw 90.0 fps | logic 15.00 Hz | catch-up frames 0
+[23:37:07] draw 88.4 fps | logic 15.00 Hz | catch-up frames 5
+[23:37:12] draw 89.0 fps | logic 15.00 Hz | catch-up frames 4
+[23:37:17] draw 85.0 fps | logic 15.00 Hz | catch-up frames 12
+[23:37:22] draw 87.8 fps | logic 15.00 Hz | catch-up frames 6
+[23:37:27] draw 87.2 fps | logic 15.00 Hz | catch-up frames 7
+[23:37:32] draw 90.0 fps | logic 15.00 Hz | catch-up frames 2
+[23:37:37] draw 88.0 fps | logic 15.20 Hz | catch-up frames 5
+[23:37:42] draw 89.2 fps | logic 14.80 Hz | catch-up frames 2
+[23:37:47] draw 88.6 fps | logic 15.00 Hz | catch-up frames 5
+[23:37:52] draw 87.4 fps | logic 15.00 Hz | catch-up frames 7
+[23:37:57] draw 84.0 fps | logic 15.00 Hz | catch-up frames 14
+[23:38:02] draw 90.4 fps | logic 15.20 Hz | catch-up frames 2
+[23:38:07] draw 86.4 fps | logic 14.80 Hz | catch-up frames 4
+[23:38:12] draw 86.4 fps | logic 15.00 Hz | catch-up frames 10
+[23:38:17] draw 85.0 fps | logic 15.00 Hz | catch-up frames 9
+[23:38:22] draw 90.2 fps | logic 15.20 Hz | catch-up frames 0
+[23:38:27] draw 91.0 fps | logic 15.00 Hz | catch-up frames 0
+[23:38:32] draw 90.8 fps | logic 15.20 Hz | catch-up frames 0
+[23:38:37] draw 91.0 fps | logic 15.20 Hz | catch-up frames 0
+[23:38:42] draw 88.2 fps | logic 14.80 Hz | catch-up frames 3
+[23:38:47] draw 90.2 fps | logic 15.20 Hz | catch-up frames 0
+[23:38:52] draw 91.0 fps | logic 15.00 Hz | catch-up frames 0
+[23:38:57] draw 83.0 fps | logic 14.40 Hz | catch-up frames 9
+[23:39:02] draw 13.2 fps | logic 2.20 Hz | catch-up frames 0
+[23:39:07] draw 89.4 fps | logic 15.00 Hz | catch-up frames 1

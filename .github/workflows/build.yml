@@ -1,0 +1,41 @@
+name: build
+
+on:
+  push:
+    branches: [main]
+    tags: ['v*']
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build
+        shell: cmd
+        run: build.bat
+
+      - name: Package
+        shell: pwsh
+        run: |
+          Compress-Archive -Path bin/dsound.dll, bin/RA3FrameMod.ini, README.md, LICENSE -DestinationPath RA3FrameMod.zip
+          (Get-FileHash bin/dsound.dll -Algorithm SHA256).Hash | Tee-Object -FilePath sha256.txt
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: RA3FrameMod
+          path: RA3FrameMod.zip
+
+      - name: Release
+        if: startsWith(github.ref, 'refs/tags/v')
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          $hash = Get-Content sha256.txt
+          gh release create $env:GITHUB_REF_NAME RA3FrameMod.zip --title "RA3FrameMod $env:GITHUB_REF_NAME" --prerelease --notes "Built by GitHub Actions from this tag's source.`n`ndsound.dll SHA-256: $hash"
